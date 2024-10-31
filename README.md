@@ -1,2 +1,2 @@
 # branching-startagey
-finding the branch startagey
+virsion control of branching startagey
